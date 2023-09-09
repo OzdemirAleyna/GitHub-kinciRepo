@@ -1,1 +1,3 @@
 ikinci alıştırmayı yapıyoruz
+
+test kullanıcısı yazıyor
